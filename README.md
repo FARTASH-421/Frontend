@@ -24,3 +24,7 @@ Due to limited data capacity, some unused frontend modules have been removed. Yo
 [6] -> After running the above command, press Ctrl and click on the localhost link with your mouse cursor to open the desired page in Google Chrome.
 
 Enjoy! 😊
+
+
+https://github.com/user-attachments/assets/72e25883-9e26-45cb-bdde-7b4d2ebc45a0
+
